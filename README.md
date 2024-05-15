@@ -5,8 +5,8 @@ This is a user-friendly website developed using HTML, CSS, and JavaScript. It al
 ## Features
 
 - User-friendly interface
-- 30-second timer for each test
-- Four multiple-choice questions per test
+- 30-second timer for each Questions
+- Four multiple-choice questions per Question
 - Score tracking
 - Responsive design for various devices
 

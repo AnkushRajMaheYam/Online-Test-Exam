@@ -24,6 +24,19 @@ This website was created by [Ankush Raj Mahe Yam (ARMY)](https://github.com/Anku
 
 ## Contributing
 
+## About Me  
+
+Hi, I’m **Ankush Raj Mahe Yam (ARMY)**, an aspiring software developer. I’m passionate about coding and enjoy sharing my learning journey to help others grow.  
+
+🌟 Connect with me:  
+- **Google Search:** [Ankush Raj Mahe Yam](https://www.google.com/search?q=ankush+raj+mahe+yam)  
+- **LinkedIn:** [Ankush Raj Mahe Yam](https://linkedin.com/in/ankushrajmaheyam)  
+- **GitHub:** [Ankush Raj Mahe Yam](https://github.com/AnkushRajMaheYam)  
+- **Instagram:** [@AnkushRajaMaheYam](https://instagram.com/AnkushRajaMaheYam)  
+- **Facebook:** [Ankush Raj Mahe Yam](https://facebook.com/AnkushRajMaheYam)  
+
+---
+
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## License

@@ -9,6 +9,7 @@ This is a user-friendly website developed using HTML, CSS, and JavaScript. It al
 - Four multiple-choice questions per Question
 - Score tracking
 - Responsive design for various devices
+![Preview of Website](preview-of-web.png)
 
 ## Developer
 
